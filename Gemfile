@@ -46,3 +46,5 @@ end
 # gem 'debugger', group: [:development, :test]
 
 gem 'rails-assets-bootstrap'
+
+gem 'carrierwave'
