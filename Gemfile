@@ -48,3 +48,5 @@ end
 gem 'rails-assets-bootstrap'
 
 gem 'carrierwave'
+
+gem 'thin'
