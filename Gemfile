@@ -50,3 +50,5 @@ gem 'rails-assets-bootstrap'
 gem 'carrierwave'
 
 gem 'thin'
+
+gem 'foreman'
